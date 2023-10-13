@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.bcffb871.css",
-    "main.js": "/static/js/main.57a57e08.js",
-    "static/js/787.f3123357.chunk.js": "/static/js/787.f3123357.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.bcffb871.css.map": "/static/css/main.bcffb871.css.map",
-    "main.57a57e08.js.map": "/static/js/main.57a57e08.js.map",
-    "787.f3123357.chunk.js.map": "/static/js/787.f3123357.chunk.js.map"
+    "main.css": "/OmdbAPI3/static/css/main.bcffb871.css",
+    "main.js": "/OmdbAPI3/static/js/main.267e07b4.js",
+    "static/js/787.f3123357.chunk.js": "/OmdbAPI3/static/js/787.f3123357.chunk.js",
+    "static/media/logo.svg": "/OmdbAPI3/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/OmdbAPI3/index.html",
+    "main.bcffb871.css.map": "/OmdbAPI3/static/css/main.bcffb871.css.map",
+    "main.267e07b4.js.map": "/OmdbAPI3/static/js/main.267e07b4.js.map",
+    "787.f3123357.chunk.js.map": "/OmdbAPI3/static/js/787.f3123357.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bcffb871.css",
-    "static/js/main.57a57e08.js"
+    "static/js/main.267e07b4.js"
   ]
 }
